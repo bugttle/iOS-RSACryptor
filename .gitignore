@@ -1,0 +1,22 @@
+# Mac
+.DS_Store
+._*
+## Xcode ##
+*/build/*
+*.pbxuser
+!default.pbxuser
+!default.xcworkspace
+*.mode*v*
+!default.mode*v*
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+
+# Windows
+Thumbs.db
+
